@@ -1,5 +1,4 @@
 import 'package:go_router/go_router.dart';
-import 'package:task_master/main.dart';
 import 'package:task_master/ui/pages/my_home_page.dart';
 
 // GoRouter configuration
